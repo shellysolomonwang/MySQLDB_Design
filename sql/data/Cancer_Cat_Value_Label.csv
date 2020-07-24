@@ -1,0 +1,27 @@
+﻿Cancer_Cat,Value_Label
+-9,Missing data (Not Ascertained) 
+-6,Missing data (Filter Missing)
+-2,Question answered in error (Commission Error)
+-1,"Inapplicable, coded 2 in EverHadCancer "
+1,Bladder cancer only
+2,Bone cancer only
+3,Breast cancer only
+4,Cervical cancer only
+5,Colon cancer only
+6,Endometrial cancer only
+7,Head/Neck cancer only
+8,Hodgkins
+9,Renal cancer only
+10,Leukemia
+11,Liver cancer only
+12,Lung cancer only
+13,Melanoma
+14,Non-Hodgkin
+16,Ovarian cancer only
+17,Pancreatic cancer only
+19,Prostate cancer only
+20,Rectal cancer only
+22,Skin cancer only
+23,Stomach cancer only
+25,More than one cancer checked
+91,Other cancer only

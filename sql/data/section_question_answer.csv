@@ -1,0 +1,338 @@
+﻿sectionID,answer_abbr,questionID,question_description
+A,SeekHealthInfo,A1,Ever looked for information about health/medical topics?
+A,WhereSeekHealthInfo,A2,Where did you go first? 
+A,WhoLookingFor,A3,"Most recent time you looked for health/medical info, who was it for?"
+A,LotOfEffort,A4a,It took a lot of effort to get the information you needed
+A,Frustrated,A4b,You felt frustrated during your search for the information
+A,ConcernedQuality,A4c,You were concerned about the quality of the information
+A,TooHardUnderstand,A4d,The information you found was hard to understand
+A,ConfidentGetHealthInf,A5,How confident are you that you could get advice/info about health/medical topics?
+A,TrustDoctor,A6a,Trust health/medical info - a doctor?
+A,TrustFamily,A6b,Trust health/medical info - family/friends?
+A,TrustNewsMag,A6c,Trust health/medical info - newspapers/magazines?
+A,TrustRadio,A6d,Trust health/medical info - radio?
+A,TrustInternet,A6e,Trust health/medical info - internet?
+A,TrustTelevision,A6f,Trust health/medical info - television?
+A,TrustGov,A6g,Trust health/medical info - govt health agencies? 
+A,TrustCharities,A6h,Trust health/medical info - charitable orgs?
+A,TrustReligiousOrgs,A6i,Trust health/medical info - religious orgs/leaders?
+A,StrongNeedHealthInfo,A7,Strong need to get info about health/medical topics. Where would you go first?
+A,StrongNeedHealthInfo_OS,A7,Strong need to get info about health/medical topics. Where...first? Other - SPECIFY
+A,SeekCancerInfo,A8,Have you ever looked for information about cancer from any source?
+A,InternetCancerInfoSelf,A9,Past 12 months...used internet to look for info about cancer for yourself?
+B,UseInternet,B1,"Do you ever go on-line to access the Internet or World Wide Web, or to send and receive e-mail?"
+B,Internet_DialUp,B2a,"Internet, access through a regular dial-up telephone line?"
+B,Internet_BroadBnd,B2b,"Internet, access through broadband such as DSL, cable or FiOS?"
+B,Internet_Cell,B2c,"Internet, access through a cellular network (i.e., telephone, 3G/4G)?"
+B,Internet_WiFi,B2d,"Internet, access through a wireless network (Wi-Fi)?"
+B,WhereUseInternet_Home,B3a,How often do you access the internet - at home?
+B,WhereUseInternet_Work,B3b,How often do you access the internet - at work?
+B,WhereUseInternet_School,B3c,How often do you access the internet - at school?
+B,WhereUseInternet_PublicPlace,B3d,How often do you access the internet - in a public place?
+B,WhereUseInternet_MobileDevice,B3e,How often do you access the internet - a mobile device?
+B,WhereUseInternet_GamingDevice,B3f,How often do you access the internet - a gaming device/Smart TV?
+B,Electronic_SelfHealthInfo,B4a,Past 12 months...used electronic means to look for health/medical info for yourself?
+B,Electronic_HealthInfoSE,B4b,Past 12 months...used electronic means to look for health/medical info for someone else?
+B,Electronic_BuyMedicine,B4c,Past 12 months...used electronic means to buy medicine or vitamins online?
+B,Electronic_HCPSearch,B4d,Past 12 months...used electronic means to look for a health care provider?
+B,Electronic_TalkDoctor,B4e,Past 12 months...used electronic means to communicate with doctor using e-mail/internet?
+B,Electronic_MadeAppts,B4f,Past 12 months...used electronic means to make appts with a health care provider?
+B,Electronic_TrackedHealthCosts,B4g,Past 12 months...used electronic means to track health care charges and costs?
+B,Electronic_CompletedForms,B4h,Past 12 months...used electronic means to fill out health care forms/paperwork?
+B,Electronic_TestResults,B4i,Past 12 months...used electronic means to look up test results?
+B,HaveDevice_Tablet,B5a,Please indicate if you have a - Tablet computer
+B,HaveDevice_SmartPh,B5b,Please indicate if you have a - Smartphone
+B,HaveDevice_CellPh,B5c,Please indicate if you have a - Basic cell phone
+B,TabletHealthWellnessApps,B6,"On your tablet or smartphone, do you have any apps related to health and wellness?"
+B,Tablet_AchieveGoal,B7a,Has your tablet helped you track progress on a health-related goal?Tablet_MakeDecision
+B,Tablet_DiscussionsHCP,B7c,Has your tablet helped you in discussions with your health care provider? OtherDevTrackHealth
+B,SharedHealthDeviceInfo,B9,Shared health info from an electronic monitoring device/smartphone with a health pro?
+B,IntRsn_VisitedSocNet,B10a,Last 12 months...used internet to visit a social networking site?
+B,IntRsn_SharedSocNet,B10b,Last 12 months...used internet to share health information on social networking site?
+B,IntRsn_WroteBlog,B10c,Last 12 months...used internet to write in an online diary or blog?
+B,IntRsn_SupportGroup,B10d,Last 12 months...used internet to participate in a forum/support group for medical issue?
+B,IntRsn_YouTube,B10e,Last 12 months...used internet to watch a health-related video on YouTube?
+B,TextFromDoctor,B11,Have you sent/received a text message from a doctor/health care pro in last 12 months?
+C,RegularProvider,C1,Is there a doctor/nurse/health pro that you see most often?
+C,MostRecentCheckup2,C2,About how long has it been since you last visited a doctor for a routine checkup?
+C,FreqGoProvider,C3,"Past 12 months, how many times did you go to a doctor/nurse/health pro to get care...?"
+C,ChanceAskQuestions,C4a,How often...give you the chance to ask all the health-related questions you had?
+C,FeelingsAddressed,C4b,How often...give the attention you needed to your feelings and emotions?
+C,InvolvedDecisions,C4c,How often...involve you in decisions about your health care as much as you wanted?
+C,UnderstoodNextSteps,C4d,How often...make sure you understood what you needed to do to take care of your health?
+C,ExplainedClearly,C4e,How often...explain things in a way you could understand?
+C,SpentEnoughTime,C4f,How often...spend enough time with you?
+C,HelpUncertainty,C4g,How often...help you deal with feelings of uncertainty about your health or health care?
+C,QualityCare,C5,"Overall, how would you rate the quality of health care you received in the past 12 months?"
+C,ProbCare_BringTest,C6a,"Had to bring an x-ray, MRI, or other type of test with you to the appointment?"
+C,ProbCare_WaitLong,C6b,Had to wait for test results longer than you thought was reasonable?
+C,ProbCare_RedoTest,C6c,Had to redo a test or procedure because the earlier test results were not available?
+C,ProbCare_ProvideHist,C6d,Had to provide your medical history again because your chart could not be found?
+C,HealthIns_InsuranceEmp,C7a,Insurance through a current or former employer or union?
+C,HealthIns_InsurancePriv,C7b,Insurance purchased directly from an insurance company?
+C,HealthIns_Medicare,C7c,"Medicare, for people 65 and older, or people with certain disabilities? "
+C,HealthIns_Medicaid,C7d,"Medicaid, Medical Assistance, or any kind of government-assistance plan?"
+C,HealthIns_Tricare,C7e,TRICARE or other military health care?
+C,HealthIns_VA,C7f,VA (including those who have ever used or enrolled for VA health care)?
+C,HealthIns_IHS,C7g,Indian Health Service?
+C,HealthIns_Other,C7h,Any other type of health insurance or health coverage plan (Specify)?
+C,HealthIns_Other_OS,C7h,Any other type of health insurance or health coverage plan - SPECIFY
+C,HealthInsurance,, Derived var to categorize the health care coverage variables (C7a-h)
+D,ProviderMaintainEMR2,D1,Do any of your doctors/HCP maintain your medical records in a computerized system?
+D,OfferedAccessHCP2,D2a,Have you ever been offered online access to your medical records by your health care provider?
+D,OfferedAccessInsurer2,D2b,Have you ever been offered online access to your medical records by your health insurer?
+D,HCPEncourageOnlineRec,D3,Have your HCP/doctors/nurses/office staff ever encouraged you to use an online medical record?
+D,AccessOnlineRecord,D4,How many times did you access your online medical record in the last 12 months?
+D,NotAccessed_SpeakDirectly,D5a,Because you prefer to speak to your health care provider directly?
+D,NotAccessed_NoInternet,D5b,Because you do not have a way to access the website?
+D,NotAccessed_NoNeed,D5c,Because you did not have a need to use your online medical record?
+D,NotAccessed_ConcernedPrivacy,D5d,Because you were concerned about the privacy/security of the website for your medical records?
+D,NotAccessed_NoRecord,D5e,Because you dont have an online medical record?
+D,NotAccessed_Other,D5f,Because of some other reason (Specify)?
+D,NotAccessed_Other_OS,D5f,Because of some other reason - SPECIFY
+D,RecordsOnline_Labs,D6a,Do any of your online medical records include laboratory test results?
+D,RecordsOnline_Meds,D6b,Do any of your online medical records include a current list of medications?
+D,RecordsOnline_HealthProbs,D6c,Do any of your online medical records include a list of health/medical problems?
+D,RecordsOnline_Allergies,D6d,Do any of your online medical records include an allergy list?
+D,RecordsOnline_VisitSummary,D6e,Do any of your online medical records include summaries of your office visits?
+D,RecordsOnline_ClinNotes,D6f,Do any of your online medical records include clinical notes?
+D,RecordsOnline_Immunizations,D6g,Do any of your online medical records include an immunization or vaccination history?
+D,RecordsOnline_MakeAppt,D7a,Past 12 months...used online med rec to make appointments with an HCP?
+D,RecordsOnline_RefillMeds,D7b,Past 12 months...used online med rec to request a refill of medications?
+D,RecordsOnline_Paperwork,D7c,Past 12 months...used online med rec to fill out health care forms/paperwork?
+D,RecordsOnline_RequestCorrection,D7d,Past 12 months...used online med rec to request correction of inaccurate info?
+D,RecordsOnline_MessageHCP,D8a,Past 12 months...used online med rec to securely message health care provider/staff?
+D,RecordsOnline_ViewResults,D8b,Past 12 months...used online med rec to look up test results?
+D,RecordsOnline_MonitorHealth,D8c,Past 12 months...used online med rec to monitor your health?
+D,RecordsOnline_DownloadHealth,D8d,Past 12 months...used online med rec to download health info to computer/mobile device?
+D,RecordsOnline_AddHealthInfo,D8e,Past 12 months...used online med rec to add health information to share with your HCP?
+D,RecordsOnline_MakeDecision,D8f,Past 12 months...used online med rec to help make decision on how to treat illness/condition?
+D,ESent_AnotherHCP,D9a,Have you electronically sent your med info to another health care provider?
+D,ESent_Family,D9b,Have you electronically sent your med info to family member/another person?
+D,ESent_HealthApp,D9c,Have you electronically sent your med info to a service or app?
+D,UnderstandOnlineMedRec,D10,How easy or difficult was it to understand the health info in your online med rec?
+D,UsefulOnlineMedRec,D11,"In general, how useful is your online medical record for monitoring your health?"
+D,ConfidentInfoSafe,D12,How confident are you that safeguards are in place to protect your medical records?
+D,WithheldInfoPrivacy,D13,Ever kept info from your HCP...concerned about the privacy/security of your medical record?
+D,ElectInfoSafe,D14,If medical info sent electronically...how concerned that an unauthorized person would see?
+D,AccessFamilyMedRec,D15,How many times access a family members online medical record through a secure website/app?
+D,AccessedFamRec_TheirPwd,D16a,Used family members login and password.
+D,AccessedFamRec_MyPwd,D16a,Used a login and password assigned to me to access their record.
+E,Caregiving_Child,E1,"Caregiving - Yes, a child/children"
+E,Caregiving_Spouse,E1,"Caregiving - Yes, a spouse/partner"
+E,Caregiving_Parent,E1,"Caregiving - Yes, a parent/parents"
+E,Caregiving_Family,E1,"Caregiving - Yes, a close family member"
+E,Caregiving_Friend,E1,"Caregiving - Yes, a friend or other non-relative"
+E,Caregiving_No,E1,Caregiving - No
+E,CaregivingWho_Cat,,Derived variable to categorize responses given in E1 (Caregiving Relationships)
+E,Caregiving_Cancer,E2,Caregiving condition - Cancer
+E,Caregiving_Alzheimers,E2,"Caregiving condition - Alzheimers, confusion, dementia, forgetfulness"
+E,Caregiving_OrthoMusc,E2,Caregiving condition - Orthopedic/Musculoskeletal Issues
+E,Caregiving_MentalHealth,E2,Caregiving condition - Mental health/Behavioral/Substance Abuse Issues
+E,Caregiving_ChronicCond,E2,Caregiving condition - Chronic Conditions
+E,Caregiving_NeuroDev,E2,Caregiving condition - Neurological/Developmental Issues
+E,Caregiving_AcuteCond,E2,Caregiving condition - Acute Conditions
+E,Caregiving_Aging,E2,Caregiving condition - Aging/Aging related health issues
+E,Caregiving_NotSure,E2,Caregiving condition - Not sure/Dont know
+E,Caregiving_Other,E2,Caregiving condition - Other (Specify)
+E,Caregiving_Other_OS,E2,Caregiving condition - Other - SPECIFY
+E,CaregivingCond_Cat,,Derived variable to categorize responses given in E2 (Caregiving Relationships)
+E,Caregiving_HoursPerWeek,E3,About how many hours do you spend in an average week providing care?
+F,HeardDNATest,F1,Doctors use DNA tests... Have you heard or read about this type of genetic test?
+F,GeneticTestUse_DetermineRisk,F2,Heard of: Determining risk or likelihood of getting a particular disease
+F,GeneticTestUse_DetermineTx,F2,Heard of: Determining how a disease should be treated after diagnosis
+F,GeneticTestUse_DetermineMed,F2,Heard of: Determining which drug(s) may or may not work for an individual
+F,GeneticTestUse_DeterminePass,F2,Heard of: Determining the likelihood of passing an inherited disease to your children
+F,GeneticTestUse_Cat,,Derived variable to categorize responses given in F2 (Genetic test use)
+F,HadTest_Paternity,F3,Ever Had: Paternity testing
+F,HadTest_Ancestry,F3,Ever Had: Ancestry testing
+F,HadTest_DNAFing,F3,Ever Had: DNA fingerprinting
+F,HadTest_CFCarrier,F3,Ever Had: Cystic Fibrosis (CF) carrier testing
+F,HadTest_BRCA,F3,Ever Had: BRCA 1/2 testing
+F,HadTest_Lynch,F3,Ever Had: Lynch syndrome testing
+F,HadTest_None,F3,Ever Had: None of the above
+F,HadTest_NotSure,F3,Ever Had: Not sure
+F,HadTest_Other,F3,Ever Had: Other (Specify)
+F,HadTest_Other_OS,F3,Ever Had: Other - SPECIFY
+F,HadTest_Cat,,Derived variable to categorize responses given in F3 (Genetic test use) 
+G,GeneralHealth,G1,"In general, would you say your health is"
+G,OwnAbilityTakeCareHealth,G2,"Overall, how confident are you about your ability to take good care of your health?"
+G,MedConditions_Diabetes,G3a,Has a doctor/other health pro ever told you that you had diabetes/high blood sugar?
+G,MedConditions_HighBP,G3b,Has a doctor/other health pro ever told you that you had high blood pressure/hypertension?
+G,MedConditions_HeartCondition,G3c,Has a doctor/other health pro ever told you that you had a heart condition?
+G,MedConditions_LungDisease,G3d,Has a doctor/other health pro ever told you that you had chronic lung disease?
+G,MedConditions_Arthritis,G3e,Has a doctor/other health pro ever told you that you had arthritis or rheumatism?
+G,MedConditions_Depression,G3f,Has a doctor/other health pro ever told you that you had depression/anxiety disorder?
+G,Height_Feet,G4,About how tall are you without shoes? Feet
+G,Height_Inches,G4,About how tall are you without shoes? Inches
+G,Weight,G5,"About how much do you weigh, in pounds, without shoes?"
+G,LittleInterest,G6a,"Past 2 weeks, how often bothered by: Little interest or pleasure in doing things?"
+G,Hopeless,G6b,"Past 2 weeks, how often bothered by: Feeling down, depressed or hopeless?"
+G,Nervous,G6c,"Past 2 weeks, how often bothered by: Feeling nervous, anxious or on edge?"
+G,Worrying,G6d,"Past 2 weeks, how often bothered by: Not being able to stop or control worrying?"
+G,EmotionalSupport,G7,Is there anyone you can count on to provide you with emotional support when you need it?
+G,TalkHealthFriends,G8,Do you have friends or family members that you talk to about your health?
+G,HelpDailyChores,G9,"If you needed help with your daily chores, is there someone who can help you?"
+G,Deaf,G10,Are you deaf or do you have serious difficulty hearing?
+H,UseMenuCalorieInfo,H1,"When available, how often do you use menu information on calories in deciding what to order?"
+H,Fruit,H2,About how many cups of fruit do you eat or drink each day?
+H,Vegetables,H3,About how many cups of vegetables do you eat or drink each day?
+H,AlcoholConditions_Cancer,H4a,Drinking too much alcohol - Cancer
+H,AlcoholConditions_HeartDisease,H4b,Drinking too much alcohol - Heart Disease
+H,AlcoholConditions_Diabetes,H4c,Drinking too much alcohol - Diabetes
+H,AlcoholConditions_Cholesterol,H4d,Drinking too much alcohol - High cholesterol
+H,AlcoholConditions_LiverDisease,H4e,Drinking too much alcohol - Liver disease
+H,AlcoholConditions_Overweight,H4f,Drinking too much alcohol - Being overweight or obese
+H,AlcoholIncreaseCancer,H5a,Alcohol increases your risk of cancer
+H,AlcoholReduceHeart,H5b,Drinking alcohol in moderation reduces your risk of heart disease
+I,TimesModerateExercise,I1,How many days do you do any physical activity or exercise of at least moderate intensity?
+I,HowLongModerateExerciseMn,I2,How long are you typically doing these activities? Minutes
+I,HowLongModerateExerciseHr,I2,How long are you typically doing these activities? Hours
+I,TimesStrengthTraining,I3,How many days do you do leisure-time physical activities to strengthen your muscles?
+I,TanningBed,I4,How many times in the past 12 months have you used a tanning bed or booth?
+I,SkinCancerHPExam,I5,Do you ever have your skin examined by a health professional for signs of skin cancer?
+I,SkinCancerSelfCheck,I6,Do you ever check your skin for signs of skin cancer?
+J,Smoke100,J1,Have you smoked at least 100 cigarettes in your entire life?
+J,SmokeNow,J2,How often do you now smoke cigarettes?
+J,TriedQuit,J3,"At any time in the past year, have you stopped smoking for one day or longer?"
+J,ConsiderQuit,J4,Are you seriously considering quitting smoking in the next six months?
+J,ElectCigLessHarm,J5,"Compared to smoking cigarettes, would you say that electronic cigarettes are"
+J,UsedECigEver,J6,"Have you ever used an e-cigarette, even one or two times?"
+J,UseECigNow,J7,"Do you now use an e-cigarette every day, some days, or not at all?"
+J,DrTalkLungTest,J8,"Past year, have you talked with your doctor about having a test to check for lung cancer?"
+J,SmokelessLessHarm,J9,Do you think that some smokeless tobacco products are less harmful than cigarettes?
+J,HookahLessHarm,J10,"Compared to smoking cigarettes, would you say that smoking tobacco using a hookah is"
+K,GenderC,K1,Are you male or female?
+K,WhenPapTest,K2,How long ago did you have your most recent Pap test to check for cervical cancer?
+K,WhenMammogram,K3,"When did you have your most recent mammogram to check for breast cancer, if ever?"
+K,EverHadPSATest,K4,A PSA test is used to check for prostate cancer. Have you ever had a PSA test?
+L,HeardHPV,L1,Have you ever heard of HPV?
+L,HPVCauseCancer_Cervical,L2a,Do you think HPV can cause cervical cancer?
+L,HPVCauseCancer_Penile,L2b,Do you think HPV can cause penile cancer?
+L,HPVCauseCancer_Anal,L2c,Do you think HPV can cause anal cancer?
+L,HPVCauseCancer_Oral,L2d,Do you think HPV can cause oral cancer?
+L,HPVSTD,L3,Do you think that HPV is a sexually transmitted disease (STD)?
+L,HPVMedicalTreatment,L4,Do you think HPV requires medical treatment or will usually go away on its own without treatment?
+L,HeardHPVVaccine2,L5,"Before today, have you ever heard of the cervical cancer vaccine or HPV shot?"
+L,HPVShotPrevent,L6,"In your opinion, how successful is the HPV vaccine at preventing cervical cancer?"
+L,FamBetween9and27,L7,Is anyone in your immediate family between the ages of 9 and 27 years old?
+L,DiscussHPVVaccination12m,L8,Has a doctor ever talked with you about the HPV shot?
+L,RecommendHPVShot,L9,Has a doctor recommended that you or someone in your immediate family get an HPV shot?
+M,EverHadCancer,M1,Have you ever been diagnosed as having cancer?
+M,CaBladder,M2,What type of cancer did you have? Bladder cancer
+M,CaBone,M2,What type of cancer did you have? Bone cancer
+M,CaBreast,M2,What type of cancer did you have? Breast cancer
+M,CaCervical,M2,What type of cancer did you have? Cervical cancer (cancer of the cervix)
+M,CaColon,M2,What type of cancer did you have? Colon cancer
+M,CaEndometrial,M2,What type of cancer did you have? Endometrial cancer (cancer of the uterus)
+M,CaHeadNeck,M2,What type of cancer did you have? Head and neck cancer
+M,CaHodgkins,M2,What type of cancer did you have? Hodgkins lymphoma
+M,CaLeukemia,M2,What type of cancer did you have? Leukemia/Blood cancer
+M,CaLiver,M2,What type of cancer did you have? Liver cancer
+M,CaLung,M2,What type of cancer did you have? Lung cancer
+M,CaMelanoma,M2,What type of cancer did you have? Melanoma
+M,CaNonHodgkin,M2,What type of cancer did you have? Non-Hodgkin lymphoma
+M,CaOral,M2,What type of cancer did you have? Oral cancer
+M,CaOvarian,M2,What type of cancer did you have? Ovarian cancer
+M,CaPancreatic,M2,What type of cancer did you have? Pancreatic cancer
+M,CaPharyngeal,M2,What type of cancer did you have? Pharyngeal (throat) cancer
+M,CaProstate,M2,What type of cancer did you have? Prostate cancer
+M,CaRectal,M2,What type of cancer did you have? Rectal cancer
+M,CaRenal,M2,What type of cancer did you have? Renal (kidney) cancer
+M,CaSkin,M2,"What type of cancer did you have? Skin cancer, non-melanoma"
+M,CaStomach,M2,What type of cancer did you have? Stomach cancer
+M,CaOther,M2,What type of cancer did you have? Other
+M,CaOther_OS,M2,"What type of cancer did you have? Other, SPECIFY:"
+M,Cancer_Cat,, Derived variable to categorize responses given to question M2
+M,WhenDiagnosedCancer,M3,At what age were you first told that you had cancer?
+M,UndergoCancerTreatment,M4,Did you ever receive any treatment for your cancer?
+M,CancerTx_Chemo,M5a,Which of the following cancer treatments have you ever received? Chemotherapy (IV or pills)
+M,CancerTx_Radiation,M5b,Which of the following cancer treatments have you ever received? Radiation
+M,CancerTx_Surgery,M5c,Which of the following cancer treatments have you ever received? Surgery
+M,CancerTx_Other,M5d,Which of the following cancer treatments have you ever received? Other
+M,HowLongFinishTreatment_Cat,M6,About how long ago did you receive your last cancer treatment?
+M,CancerTxSummary,M7,Did you ever receive a summary document that listed all of the cancer treatments you received?
+M,CancerDeniedCoverage,M8,Were you ever denied health insurance coverage because of your cancer?
+M,CancerHurtFinances,M9,"How much, if at all, has your cancer and its treatment hurt your financial situation?"
+M,CancerAbilityToWork,M10,Did any HCP ever discuss the impact of cancer/cancer treatment on your ability to work?
+M,ClinicalTrialCancerTx,M11,Have you ever participated in a clinical trial for treatment of your cancer?
+M,DiscussedClinicalTrial,M12,Has any HCP discussed clinical trials as a treatment option for your cancer?
+N,ChanceGetCancer, N1,How likely are you to get cancer in your lifetime?
+N,EverythingCauseCancer,N2a,Agree/disagree: It seems like everything causes cancer
+N,PreventNotPossible,N2b,Agree/disagree: There’s not much you can do to lower your chances of getting cancer
+N,TooManyRecommendations,N2c,Agree/disagree: So many recommendations about preventing cancer-hard to know which to follow.
+N,CancerMoreCommon,N2d,"Agree/disagree: In adults, cancer is more common than heart disease"
+N,CancerFatal,N2e,"Agree/disagree: When I think about cancer, I automatically think about death"
+N,RatherNotKnowChance,N3.,Agree/disagree: Id rather not know my chance of getting cancer
+N,FreqWorryCancer,N4,How worried are you about getting cancer?
+N,FamilyEverHadCancer,N5,Have any of your family members ever had cancer?
+O,Age,O1, What is your age?
+O,OccupationStatus,O2, What is your current occupational status?
+O,OccupationStatus_OS,O2, What is your current occupational status? SPECIFY
+O,Employed,,Derived variable: Flag for question O2 checked responses
+O,Unemployed,,Derived variable: Flag for question O2 checked responses
+O,Homemaker,,Derived variable: Flag for question O2 checked responses
+O,Student,,Derived variable: Flag for question O2 checked responses
+O,Retired,,Derived variable: Flag for question O2 checked responses
+O,Disabled,,Derived variable: Flag for question O2 checked responses
+O,OtherOcc,,Derived variable: Flag for question O2 checked responses
+O,MultiOcc,,"Derived variable: Total number of responses to question O2, OccupationStatus"
+O,ActiveDutyArmedForces,O3,Have you ever served on active duty in the U.S. Armed Forces/Military Reserves/National Guard?
+O,ReceivedCareVA,O4,"Past 12 months, have you received some or all of your health care from a VA hospital/clinic?"
+O,MaritalStatus,O5,What is your marital status?
+O,Education,O6,What is the highest grade or level of schooling you completed?
+O,BornInUSA,O7,Were you born in the United States?
+O,YearCameToUSA,O8,In what year did you come to live in the United States?
+O,SpeakEnglish,O9,How well do you speak English?
+O,NotHisp,O10,"Hispanic/Latino/a/Spanish origin? - No, not of Hispanic, Latino/a, or Spanish origin"
+O,Mexican,O10,"Hispanic/Latino/a/Spanish origin? - Yes, Mexican/Mexican American/Chicano/a"
+O,PuertoRican,O10,"Hispanic/Latino/a/Spanish origin? - Yes, Puerto Rican"
+O,Cuban,O10,"Hispanic/Latino/a/Spanish origin? - Yes, Cuban"
+O,OthHisp,O10,"Hispanic/Latino/a/Spanish origin? - Yes, another Hispanic/Latino/a/Spanish origin"
+O,Hisp_Cat,,Derived variable to categorize responses given in O10 (Hispanic ethnicity)
+O,White,O11,What is your race? - White?
+O,Black,O11,What is your race? - Black or African American?
+O,AmerInd,O11,What is your race? - American Indian or Alaska Native?
+O,AsInd,O11,What is your race? - Asian Indian?
+O,Chinese,O11,What is your race? - Chinese?
+O,Filipino,O11,What is your race? - Filipino?
+O,Japanese,O11,What is your race? - Japanese?
+O,Korean,O11,What is your race? - Korean?
+O,Vietnamese,O11,What is your race? - Vietnamese?
+O,OthAsian,O11,What is your race? - Other Asian?
+O,Hawaiian,O11,What is your race? - Native Hawaiian?
+O,Guamanian,O11,What is your race? - Guamanian or Chamorro?
+O,Samoan,O11,What is your race? - Samoan?
+O,OthPacIsl,O11,What is your race? - Other Pacific Islander?
+O,Race_Cat2,,Derived variable to categorize responses given in O11 (Race)
+O,SexualOrientation,O12,Do you think of yourself as
+O,SexualOrientation_OS,O12,Do you think of yourself as...Something else - Specify
+O,TotalHousehold,O13,"Including yourself, how many people live in your household?"
+O,R_HHAdults,,Reconciled number of adults in household
+O,HHAdults_Num,,Number of adults in a household (final)
+O,SelfGender,O14,Self: Gender. 
+O,385 SelfAge,O14,Self: Age. 
+O,386 SelfMOB,O14,Self: Month Born
+O,390 HHAdultGender2,O14,Adult 2: Gender 
+O,HHAdultAge2,O14,Adult 2: Age 
+O,HHAdultMOB2,O14,Adult 2: Month Born
+O,HHAdultGender3,O14,Adult 3: Gender
+O,HHAdultAge3,O14,Adult 3: Age
+O,HHAdultMOB3,O14,Adult 3: Month Born
+O,HHAdultGender4,O14,Adult 4: Gender
+O,HHAdultAge4,O14,Adult 4: Age
+O,HHAdultMOB4,O14,Adult 4: Month Born
+O,HHAdultGender5,O14,Adult 5: Gender
+O,HHAdultAge5,O14,Adult 5: Age
+O,HHAdultMOB5,O14,Adult 5: Month Born
+O,ChildrenInHH,O15,How many children under the age of 18 live in your household?
+O,RentOrOwn,O16,Do you currently rent or own your home?
+O,CellPhone,O17,Does anyone in your family have a working cell phone?
+O,PhoneInHome,O18,Is there at least one telephone inside your home that is working and is not a cell phone?
+O,IncomeRanges,O19,What is your total combined household annual income?
+O,MailSurveyTime_Min,O20,About how long did it take you to complete the survey: Minutes
+O,MailSurveyTime_Hrs,O20,About how long did it take you to complete the survey: Hours
+O,TypeOfAddressA,O21,Which address type of address: A street address with a house or building number?
+O,TypeOfAddressB,O21,Which address type of address: An address with a rural route number?
+O,TypeOfAddressC,O21,Which address type of address: A U.S. P.O. Box?
+O,TypeOfAddressD,O21,Which address type of address: A commercial mail box establishment?
